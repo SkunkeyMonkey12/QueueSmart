@@ -1,0 +1,21 @@
+customer_name,category,urgency_level,status,vulnerable_customer,assigned_staff_member
+Alice Johnson,Housing,High,Open,No,Mark Stevens
+Brian Smith,Digital Support,Medium,In Progress,No,Sarah Lee
+Catherine Brown,Benefits,High,Open,Yes,Emma Wilson
+David Miller,Digital Support,Low,Resolved,No,James Carter
+Ella Davis,Wellbeing,Medium,Pending,Yes,Mark Stevens
+Frank Wilson,Housing,Low,Resolved,No,Sarah Lee
+Grace Taylor,Digital Support,High,In Progress,No,Emma Wilson
+Henry Anderson,Benefits,Medium,Open,Yes,James Carter
+Isla Thomas,Housing,Low,Resolved,No,Mark Stevens
+Jack White,Digital Support,High,Open,No,Sarah Lee
+Karen Harris,Wellbeing,Low,Resolved,Yes,Emma Wilson
+Liam Martin,Benefits,Medium,In Progress,No,James Carter
+Mia Thompson,Housing,High,Open,Yes,Mark Stevens
+Noah Garcia,Digital Support,Medium,Pending,No,Sarah Lee
+Olivia Martinez,Wellbeing,High,In Progress,Yes,Emma Wilson
+Peter Robinson,Housing,Low,Resolved,No,James Carter
+Quinn Clark,Digital Support,High,Open,No,Mark Stevens
+Ruby Lewis,Benefits,Medium,Resolved,Yes,Sarah Lee
+Samuel Walker,Housing,Low,Pending,No,Emma Wilson
+Tina Hall,Wellbeing,Medium,In Progress,Yes,James Carter
