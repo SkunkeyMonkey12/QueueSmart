@@ -1,0 +1,23 @@
+QueueSmart Dummy Data,,,,,,,,,,,,,,,
+Customer_Name,,Category,Description,,Urgency_Level,Created_Date,,Status,Vulnerable_Customer,,,Assigned_Staff_Member,,,Priority_Score
+Alice Johnson,,Housing,Leaky faucet,,Critical,10/2/2026,,Open,Yes,,,Simon,,,87
+Brian Smith ,,Digital Support,Emails not working,,High,10/2/2026,,In Progress,No,,,Paul,,,32
+Catherine Brown,,Benefits,Claim issue,,High,9/2/2026,,Open,Yes,,,Tony,,,50
+David Miller,,Digital Support,Password reset,,Low,8/2/2026,,Resolved,No,,,Greg,,,0
+Ella Davis,,Wellbeing,Anxiety support,,Medium,10/2/2026,,Pending,yes,,,Simon,,,16
+Frank Wilson,,Housing ,Heating problem,,Low,7/2/2026,,Resolved,No,,,Paul,,,0
+Grace Taylor,,Digital Support,Software bug,,High,9/2/2026,,In progress,No,,,Tony,,,47
+Henry Anderson,,Benefits,Pension query,,Medium,8/2/2026,,Open,Yes,,,Greg,,,27
+Isla Thomas,,Housing ,Roof leak,,Low,7/2/2026,,Resolved,Yes,,,Simon,,,15
+Jack White,,Digital Support,Laptop crash,,High,10/2/2026,,Open,No,,,Paul,,,35
+Karen Harris,,Wellbeing,Depression councelling,,Low,6/2/2026,,Resolved,Yes,,,Tony,,,24
+Liam Martin,,Benefits,Tax refund,,Medium,8/2/2026,,In Progress,Yes,,,Greg,,,18
+Mia Thompson,,Housing ,Blocked drain,,Critical,10/2/2026,,Open,Yes,,,Simon,,,52
+Noah Garcia,,Digital Support,Network outage,,Medium,9/2/2026,,Pending,No,,,Paul,,,27
+Olivia Martinez,,Wellbeing,Mental health advice,,High,9/2/2026,,In Progress,No,,,Tony,,,45
+Peter Robinson,,Housing ,Broken window,,Low,7/2/2026,,Resolved,Yes,,,Greg,,,18
+Quinn Clark,,Digital Support,Printer issue,,Critical,10/2/2026,,Open,Yes,,,Simon,,,50
+Ruby Lewis,,Benefits,Child benefit query,,Medium,8/2/2026,,Resolved,No,,,Paul,,,33
+Samuel Walker,,Housing ,Heating repair,,Low,7/2/2026,,Pending,Yes,,,Tony,,,15
+Tina Hall,,Wellbeing,Stress management,,Medium,9/2/2026,,In Progress,No,,,Greg,,,28
+,,,,,,,,,,,,,,,
