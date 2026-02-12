@@ -1,0 +1,22 @@
+QueueSmart Dummy Data,,,,,,,,,,,,,,
+Customer_Name,,Category,Appointment_Date,,Appointment_Time,,Appointment_Duration,Urgency_Level,,Status,Vulnerable_Customer,,Staff_Name,Weekly_Appointment_Count
+Alice Johnson,,Housing,11/02/26,,12:00,,30,High,,Open,Yes,,Simon,6
+Brian Smith,,Digital Support,15/02/26,,14:00,,60,Medium,,Closed,No,,Paul,5
+Catherine Brown,,Benefits,22/02/26,,8:00,,45,Critical,,In Progress,Yes,,Tony,4
+David Miller,,Wellbeing,28/02/26,,9:00,,30,Low,,Pending,Yes,,Simon,6
+Ella Davis,,Housing,01/02/26,,10:30,,30,High,,Open,No,,Greg,5
+Frank Wilson,,Benefits,06/02/26,,14:45,,60,Medium,,Closed,No,,Paul,5
+Grace Taylor,,Digital Support,24/02/26,,16:00,,60,Critical,,Pending,No,,Greg,5
+Henry Anderson,,Housing,16/02/26,,14:45,,45,Low,,In Progress,No,,Greg,5
+Isla Thomas,,Benefits,08/02/26,,16:30,,30,High,,Pending,No,,Paul,5
+Jack White,,Housing,02/02/26,,15:00,,45,Medium,,Pending,Yes,,Simon,6
+Karen Harris,,Digital Support,04/02/26,,12:00,,30,Critical,,Pending,No,,Simon,6
+Liam Martin,,Wellbeing,25/02/26,,9:45,,60,Critical,,Closed,Yes,,Simon,6
+Mia Thompson,,Housing,07/02/26,,11:30,,30,Medium,,Open,No,,Paul,5
+Noah Garcia,,Digital Support,14/02/26,,15:00,,60,Low,,Open,No,,Tony,4
+Olivia Martinez,,Benefits,20/02/26,,12:00,,30,Medium,,Closed,No,,Tony,4
+Peter Robinson,,Benefits,18/02/26,,9:00,,60,High,,Closed,Yes,,Tony,4
+Quinn Clark,,Housing,12/02/26,,10:45,,30,Low,,Closed,No,,Paul,5
+Ruby Lewis,,Digital Support,23/02/26,,13:00,,30,Low,,Open,No,,Greg,5
+Samuel Walker,,Housing,26/02/26,,12:00,,60,Low,,Open,No,,Simon,6
+Tina Hall,,Benefits,27/02/26,,13:30,,30,Medium,,Open,Yes,,Greg,5
